@@ -6,4 +6,4 @@ there are no black and purple blocks and items
 
 # showcase:
 <a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141900.png">purple sky</a>
-<a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141900.png">low fire</a>
+<a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-143531.png">low fire</a>
