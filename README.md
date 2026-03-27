@@ -9,3 +9,4 @@ there are no black and purple blocks and items
 <a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-143531.png">low fire</a>
 <a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141944.png">old textures</a>
 <a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141944.png">no particles</a>
+<a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141944.png">short swords</a>
