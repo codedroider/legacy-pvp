@@ -11,7 +11,7 @@ there are no black and purple blocks and items
 <p><a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141944.png">no particles</a></p>
 <p><a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260327-141959.png">short swords</a></p>
 
-# NEW showcase (1.3):
+# NEW showcase (1.2):
 <p><a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260406-130925.PNG">screenshot 1</a></p>
 <p><a href="https://github.com/codedroider/legacy-pvp/raw/refs/heads/main/screenshots/Screenshot_20260406-130901.png">screenshot 2</a></p>
 
