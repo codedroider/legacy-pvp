@@ -1,5 +1,5 @@
 # legacy-pvp
-mcpe 1.6 vanilla texturepack for 1.21 with pvp mods, like custom skybox, short swords, lowfire, no particles, no clouds, 60fps fire, "Ubuntu Mono Bold" font, custom crosshair, modern ui, connected glass, increase the volume of the damage sound.
+mcpe 1.6 vanilla texturepack for 1.21 with pvp mods, like custom skybox (just purple or atmospheric gray), short swords, lowfire, no particles, no clouds, 60fps fire, "Ubuntu Mono Bold" font, custom crosshair, modern ui, connected glass, increase the volume of the damage sound.
 
 # compatible with new items
 there are no black and purple blocks and items
